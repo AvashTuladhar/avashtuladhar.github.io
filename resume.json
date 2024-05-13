@@ -1,0 +1,383 @@
+{
+  "FirstName": "Avash",
+  "LastName": "Tuladhar",
+  "Summary": "With a passion for innovation, a commitment to excellence, and a dedication to continuous improvement, I am eager to contribute my expertise and drive impactful solutions that propel organizational success in the fast-paced realm of technology.",
+  "Address": "Kathmandu, Nepal",
+  "Email": "avashtuladhar@outlook.com",
+  "Phone": "+977-9849081501",
+  "URLs": [
+    {
+      "UrlName": "Linked In",
+      "UrlAddress": "https://www.linkedin.com/in/avash-tuladhar-ab639132/"
+    },
+    {
+      "UrlName": "GitHub",
+      "UrlAddress": "https://github.com/AvashTuladhar"
+    }
+  ],
+  "ProfessionalExperiences": [
+    {
+      "CompanyName": "Infinite Computer Solutions",
+      "CompanyAddress": "https://www.infinite.com/",
+      "Designation": "Principal Software Engineer",
+      "FromDate": "2024-02-16",
+      "ToDate": "9999-12-31",
+      "Brief": "Infinite is a global leader in digital engineering and IT services, with over two decades of experience helping clients turn digital transformation into business value. We partner with customers to optimize, modernize, and scale their technology landscape, combining leading technologies, innovative platforms, and accelerators with practical know-how. With an industry-first mindset and laser focus on business outcomes, we are shaping the future with digital engineering excellence.",
+      "Projects": [
+        {
+          "ProjectName": "Eliza - Nova",
+          "ProjectBrief": "A web application that delivers workflow solutions to insurance companies, reducing communication health gaps using sophisticated interactive voice calls, SMS, MMS, E-Mail, and web surveys."
+        },
+        {
+          "ProjectName": "Eliza - Enterprise Production Operation",
+          "ProjectBrief": "A specialized team for troubleshooting production operation problems for products such as Portal and Nova."
+        }
+      ]
+    },
+    {
+      "CompanyName": "Cotiviti Nepal Private Limited",
+      "CompanyAddress": "https://www.cotiviti.com/",
+      "Designation": "Senior Software Engineer",
+      "FromDate": "2021-12-27",
+      "ToDate": "2024-02-15",
+      "Brief": "Cotiviti enables healthcare organizations to deliver better care at a lower cost through advanced technology and data analytics, ensuring the quality and sustainability of healthcare delivery in the United States.",
+      "Projects": [
+        {
+          "ProjectName": "Eliza - Nova",
+          "ProjectBrief": "A web application that delivers workflow solutions to insurance companies, reducing communication health gaps using sophisticated interactive voice calls, SMS, MMS, E-Mail, and web surveys."
+        },
+        {
+          "ProjectName": "Eliza - Portal",
+          "ProjectBrief": "A web application that provides customers with insightful reports on interactive voice calls, SMS, MMS, E-Mail, and web surveys, managing schedules and throttles of outreach."
+        },
+        {
+          "ProjectName": "Eliza - Internal Portal",
+          "ProjectBrief": "A web application that manages users and rights of internal employees, generates bill reports, and provides insightful reports for enhancing business decisions."
+        },
+        {
+          "ProjectName": "Eliza - Enterprise Production Operation",
+          "ProjectBrief": "A specialized team for troubleshooting production operation problems for products such as Portal."
+        }
+      ]
+    },
+    {
+      "CompanyName": "Century Commercial Bank Limited",
+      "CompanyAddress": "",
+      "Designation": "Officer (.NET Developer)",
+      "FromDate": "2018-12-09",
+      "ToDate": "2021-12-25",
+      "Brief": "Century Commercial Bank Limited was a commercial bank in Nepal, licensed by Nepal Rastra Bank. The bank provided comprehensive commercial banking services across the nation, with its head office in Kathmandu. It merged with Prabhu Bank Limited in January 2023.",
+      "Projects": [
+        {
+          "ProjectName": "Central Authorization",
+          "ProjectBrief": "A web application and web API that manages users and branch assignments for in-house applications."
+        },
+        {
+          "ProjectName": "Credit Workflow",
+          "ProjectBrief": "A credit approval workflow for business efficiency using a web application."
+        },
+        {
+          "ProjectName": "Performance Appraisal",
+          "ProjectBrief": "Employee performance appraisal using a web application."
+        },
+        {
+          "ProjectName": "Free Flow Workflow",
+          "ProjectBrief": "Workflow for the approval of memos, correspondence, and other documents for business efficiency."
+        },
+        {
+          "ProjectName": "Margin Lending",
+          "ProjectBrief": "A web application for monitoring stocks that have been pledged against loans."
+        },
+        {
+          "ProjectName": "Credit Monitoring",
+          "ProjectBrief": "A web application to track asset insurance that has been pledged against loans."
+        },
+        {
+          "ProjectName": "Helpdesk",
+          "ProjectBrief": "A web application for tracking service tickets for various departments."
+        },
+        {
+          "ProjectName": "Services Tracker",
+          "ProjectBrief": "A web application for tracking the expiry of various services and departments."
+        },
+        {
+          "ProjectName": "Staff Loan Tracking",
+          "ProjectBrief": "A web application that tracks staff loans."
+        },
+        {
+          "ProjectName": "SSRS Reporting",
+          "ProjectBrief": "Development of various insightful reports using the core banking system."
+        },
+        {
+          "ProjectName": "Card Management System",
+          "ProjectBrief": "A web application to track the issuance and request of cards requested by customers."
+        },
+        {
+          "ProjectName": "Maintenance and Support",
+          "ProjectBrief": "Supported various vendor applications on their operations such as intranet, dividend payment, document management system, and the bank's website."
+        }
+      ]
+    },
+    {
+      "CompanyName": "Citizens International Bank Limited",
+      "CompanyAddress": "https://www.ctznbank.com/",
+      "Designation": "Junior Officer (Software Engineer – Team Lead & Database Administrator)",
+      "FromDate": "2014-06-23",
+      "ToDate": "2018-11-29",
+      "Brief": "Citizens Bank International Limited has been established as a reliable and trustworthy partner for all financial solutions. Institutionalized by a highly professional and experienced team, we have gained credibility in the banking sector through quality financial service.",
+      "Projects": [
+        {
+          "ProjectName": "Application Supported by Blocked Application",
+          "ProjectBrief": "A web application to apply initial public offerings and right shares against bank balance."
+        },
+        {
+          "ProjectName": "Know Your Customer",
+          "ProjectBrief": "A web application for the bank's customer to update their KYCs."
+        },
+        {
+          "ProjectName": "Risk Department Reporting",
+          "ProjectBrief": "A web application for aiding Nepal Rastra Bank & Commission for the Investigation of Abuse of Authority (CIAA) report."
+        },
+        {
+          "ProjectName": "SharePoint Administration and Workflow Development",
+          "ProjectBrief": "Server administration, backup, rights and role management and develop workflows for various departments."
+        },
+        {
+          "ProjectName": "SSRS Reporting",
+          "ProjectBrief": "Development of various insightful reports using the core banking system."
+        },
+        {
+          "ProjectName": "Data Administrator",
+          "ProjectBrief": "Understanding the core banking system, ensuring regular backups and safekeeping, checking data center and data recovery site synchronization, and performing regular drill tests."
+        },
+        {
+          "ProjectName": "Data Migration Projects",
+          "ProjectBrief": "Data migration of Nepal Housing Merchant Finance Limited and Peoples Finance Limited from Micro Banker to Pumori core banking system. Data migration of Card information from National Payment Network to Nepal Electronic Payment System. Part of Core banking migration from Pumori to Finacle."
+        },
+        {
+          "ProjectName": "Branchless Banking Operation Support",
+          "ProjectBrief": "Supported vendor applications on their operations and supported the bank's team."
+        },
+        {
+          "ProjectName": "Maintenance and Support",
+          "ProjectBrief": "Supported various vendor applications on their operations such as intranet, document management system, and the bank's website."
+        }
+      ]
+    },
+    {
+      "CompanyName": "Tulips Technologies Private Limited",
+      "CompanyAddress": "https://www.tulipstechnologies.com/",
+      "Designation": "ASP.NET Programmer",
+      "FromDate": "2013-07-16",
+      "ToDate": "2014-06-16",
+      "Brief": "A software development company with the main partner, Websearchpro, belonging to the renowned Thinc group.",
+      "Projects": [
+        {
+          "ProjectName": "University of Kigali (MIS)",
+          "ProjectBrief": "MIS for the university worked on certain modules library management and course management."
+        },
+        {
+          "ProjectName": "E-Attendance",
+          "ProjectBrief": "An application for attendance, supported on their operation, troubleshooting, and code maintenance."
+        }
+      ]
+    },
+    {
+      "CompanyName": "Goodwill Finance Limited",
+      "CompanyAddress": "https://goodwillfinance.com.np/",
+      "Designation": "Senior IT Supervisor",
+      "FromDate": "2007-09-11",
+      "ToDate": "2011-07-31",
+      "Brief": "Goodwill Finance Limited is the leading provider of financial solutions. Goodwill Finance Limited started its operation as a financial institution under the license from Nepal Rastra Bank in 1995.",
+      "Projects": [
+        {
+          "ProjectName": "System and Network Administrator",
+          "ProjectBrief": "Maintain Routers, Switches, LAN, VPN, printers, CCTV surveillance. Maintain and support financial software and MS-SQL database. Maintain and install Database Server, Active Directory Server, Antivirus Server, and Mail Server. Structuring and planning of computer hardware, WAN, servers, network devices."
+        },
+        {
+          "ProjectName": "Operations",
+          "ProjectBrief": "Manage shareholder's stock information, distribution of dividends and bonus shares. Involved in the initial public offering, various remittance services, and support."
+        }
+      ]
+    }
+  ],
+  "Educations": [
+    {
+      "University": "Purbanchal University",
+      "Institution": "Kantipur City College",
+      "Degree": "Masters In Computer Application",
+      "Obtained": "",
+      "StartYear": "2017",
+      "EndYear": "Running"
+    },
+    {
+      "University": "Tribhuvan University",
+      "Institution": "Prime College",
+      "Degree": "Bachelors In Information Management",
+      "Obtained": "CGPA 3.14/4",
+      "StartYear": "2003",
+      "EndYear": "2007"
+    }
+  ],
+  "Courses": [
+    {
+      "Provider": "LinkedIn Learning",
+      "CourseName": "Threading in C#",
+      "Year": "2023"
+    },
+    {
+      "Provider": "Udemy",
+      "CourseName": "Mastering TypeScript",
+      "Year": "2023"
+    },
+    {
+      "Provider": "freeCodeCamp",
+      "CourseName": "Foundational C# with Microsoft",
+      "Year": "2023"
+    },
+    {
+      "Provider": "Udemy",
+      "CourseName": "Complete Angular Course - Learn Forntend Development",
+      "Year": "2023"
+    },
+    {
+      "Provider": "Udemy",
+      "CourseName": "Angular Crash Course for Busy Developers",
+      "Year": "2023"
+    },
+    {
+      "Provider": "Udemy",
+      "CourseName": "Unit Testing for C# Developers",
+      "Year": "2022"
+    },
+    {
+      "Provider": "Udemy",
+      "CourseName": "Understanding Typescript",
+      "Year": "2022"
+    },
+    {
+      "Provider": "Udemy",
+      "CourseName": "Make an E-Commerce Website with Blazor WebAssembly in .NET 6",
+      "Year": "2022"
+    },
+    {
+      "Provider": "Udemy",
+      "CourseName": "Complete Guide to ASP.NET Core Identity",
+      "Year": "2022"
+    },
+    {
+      "Provider": "Scaled Agile Framework",
+      "CourseName": "Certified SAFe 5 Practitioner",
+      "Year": "2022"
+    },
+    {
+      "Provider": "LinkedIn Learning",
+      "CourseName": "C# Test-Driven Development",
+      "Year": "2022"
+    },
+    {
+      "Provider": "Udemy",
+      "CourseName": "C# Intermediate Classes, Interfaces and OOP",
+      "Year": "2022"
+    },
+    {
+      "Provider": "Udemy",
+      "CourseName": "C# Advanced Topics Prepare for Technical Interviews",
+      "Year": "2022"
+    },
+    {
+      "Provider": "LinkedIn Learning",
+      "CourseName": "Aws Essentail Training for Developers",
+      "Year": "2022"
+    },
+    {
+      "Provider": "Udemy",
+      "CourseName": "Advanced ASP.NET Core Unit Testing",
+      "Year": "2022"
+    },
+    {
+      "Provider": "NIIT",
+      "CourseName": "Develop Web Appplications using ASP.NET",
+      "Year": "2014"
+    },
+    {
+      "Provider": "LABA",
+      "CourseName": "CCNA",
+      "Year": "2012"
+    },
+    {
+      "Provider": "Elite",
+      "CourseName": "Card Payment Solutions",
+      "Year": "2010"
+    },
+    {
+      "Provider": "Sambad Technologies Private Limited",
+      "CourseName": "Information Security for Business",
+      "Year": "2009"
+    },
+    {
+      "Provider": "SSi Nepal",
+      "CourseName": "PHP",
+      "Year": "2007"
+    },
+    {
+      "Provider": "College of Software Engineering",
+      "CourseName": "Proficienncy in Office Application",
+      "Year": "2001"
+    }
+  ],
+  "Skills": [
+    {
+      "Category": "Development Skills",
+      "Brief": "C#, ASP.NET, Console ,Windows, & Web services development, Dapper, Entity framework, C++ and C."
+    },
+    {
+      "Category": "Data Skills",
+      "Brief": "SQL, Database structure and design, Server Integration Services, MS-Access, MySQL, JSON, CSV and XML."
+    },
+    {
+      "Category": "Front End Development",
+      "Brief": "JavaScript, Angular ,Typescript, jQuery, HTML and CSS."
+    },
+    {
+      "Category": "Reporting Skills",
+      "Brief": "Microsoft SQL Server Reporting Services and Power BI."
+    },
+    {
+      "Category": "Others",
+      "Brief": "Mirosoft office suite, Networking, Server, Client and hardware."
+    }
+  ],
+  "References": [
+    {
+      "FullName": "Mr. Bhabuk Singh Kunwar",
+      "Designation": "Senior Engineering Manager",
+      "Company": "Infinite Computer Solutions",
+      "EmailAddress": "bhabuk.kunwar@infinite.com"
+    },
+    {
+      "FullName": "Mr. Bikash Shrestha",
+      "Designation": "Head - Information Technology",
+      "Company": "NMB Bank Limited",
+      "EmailAddress": "bikash.shrestha@nmb.com"
+    },
+    {
+      "FullName": "Mr. Sanjeeb Kumar Shrestha",
+      "Designation": "Chief Information Technology Officer",
+      "Company": "Citizens Commercial Bank Limited",
+      "EmailAddress": "sanjeeb@ctzbank.com.np"
+    },
+    {
+      "FullName": "Mr. Hemanta Joshi",
+      "Designation": "Chief Executive Officer",
+      "Company": "Tulips Technologies Private Limited",
+      "EmailAddress": "info@tulipstechnologies.com"
+    },
+    {
+      "FullName": "Mr. Saroj Kaji Tuladhar",
+      "Designation": "Chief Executive Officer",
+      "Company": "Goodwill Finance Limited",
+      "EmailAddress": "info@goodwill.net.np"
+    }
+  ]
+}
