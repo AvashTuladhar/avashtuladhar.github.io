@@ -3,8 +3,8 @@
   "LastName": "Tuladhar",
   "Summary": "With a passion for innovation, a commitment to excellence, and a dedication to continuous improvement, I am eager to contribute my expertise and drive impactful solutions that propel organizational success in the fast-paced realm of technology.",
   "Address": "Kathmandu, Nepal",
-  "Email": "avashtuladhar@outlook.com",
-  "Phone": "+977-9849081501",
+  "Email": "",
+  "Phone": "",
   "URLs": [
     {
       "UrlName": "Linked In",
@@ -353,31 +353,31 @@
       "FullName": "Mr. Bhabuk Singh Kunwar",
       "Designation": "Senior Engineering Manager",
       "Company": "Infinite Computer Solutions",
-      "EmailAddress": "bhabuk.kunwar@infinite.com"
+      "EmailAddress": ""
     },
     {
       "FullName": "Mr. Bikash Shrestha",
       "Designation": "Head - Information Technology",
       "Company": "NMB Bank Limited",
-      "EmailAddress": "bikash.shrestha@nmb.com"
+      "EmailAddress": ""
     },
     {
       "FullName": "Mr. Sanjeeb Kumar Shrestha",
       "Designation": "Chief Information Technology Officer",
       "Company": "Citizens Commercial Bank Limited",
-      "EmailAddress": "sanjeeb@ctzbank.com.np"
+      "EmailAddress": ""
     },
     {
       "FullName": "Mr. Hemanta Joshi",
       "Designation": "Chief Executive Officer",
       "Company": "Tulips Technologies Private Limited",
-      "EmailAddress": "info@tulipstechnologies.com"
+      "EmailAddress":""
     },
     {
       "FullName": "Mr. Saroj Kaji Tuladhar",
       "Designation": "Chief Executive Officer",
       "Company": "Goodwill Finance Limited",
-      "EmailAddress": "info@goodwill.net.np"
+      "EmailAddress": ""
     }
   ]
 }
