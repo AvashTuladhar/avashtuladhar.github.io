@@ -3,8 +3,8 @@
   "LastName": "Tuladhar",
   "Summary": "With a passion for innovation, a commitment to excellence, and a dedication to continuous improvement, I am eager to contribute my expertise and drive impactful solutions that propel organizational success in the fast-paced realm of technology.",
   "Address": "Kathmandu, Nepal",
-  "Email": "",
-  "Phone": "",
+  "Email": "avashtuladhar@outlook.com",
+  "Phone": "+977-9818221101",
   "URLs": [
     {
       "UrlName": "Linked In",
@@ -31,7 +31,15 @@
         {
           "ProjectName": "Eliza - Engineering Production Operation",
           "ProjectBrief": "A specialized team for troubleshooting production operation problems for products such as Portal and Nova."
-        }
+        },
+        {
+          "ProjectName": "Eliza - Nova",
+          "ProjectBrief": "A web application that delivers workflow solutions to insurance companies, reducing communication health gaps using sophisticated interactive voice calls, SMS, MMS, E-Mail, and web surveys."
+        },
+        {
+          "ProjectName": "Eliza - Portal",
+          "ProjectBrief": "A web application that provides customers with insightful reports on interactive voice calls, SMS, MMS, E-Mail, and web surveys, managing schedules and throttles of outreach."
+        },
       ]
     },
     {
